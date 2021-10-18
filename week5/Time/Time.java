@@ -1,4 +1,4 @@
-package Time;
+package week5.Time;
 import java.util.*;
 
 public class Time {

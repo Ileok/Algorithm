@@ -1,4 +1,4 @@
-package Knight;
+package week5.Knight;
 import java.util.*;
 
 public class Knight {

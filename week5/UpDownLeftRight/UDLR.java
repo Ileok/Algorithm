@@ -1,4 +1,4 @@
-package UpDownLeftRight;
+package week5.UpDownLeftRight;
 import java.util.*;
 
 public class UDLR {
