@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ToggleCase {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
-		System.out.print("ÀÔ·Â : ");
+		System.out.print("ìž…ë ¥ : ");
 		String str = in.next();
 		StringBuilder toggle = new StringBuilder();
 		char a = 0;
@@ -12,7 +12,7 @@ public class ToggleCase {
 			a ^= 32;
 			toggle.append(a);
 		}
-		System.out.println("´ë¼Ò¹®ÀÚ º¯È¯ : "+toggle);
+		System.out.println("ì¶œë ¥ : "+toggle);
 
 	}
 
