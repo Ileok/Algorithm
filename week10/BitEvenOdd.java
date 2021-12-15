@@ -8,13 +8,13 @@ public class BitEvenOdd {
 	
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
-		System.out.print("ÀÔ·Â : ");
+		System.out.print("ì…ë ¥ : ");
 		int n = in.nextInt();
 		
 		if(isEven(n) == 1) {
-			System.out.println("È¦¼ö");
+			System.out.println("í™€ìˆ˜");
 			
-		} else { System.out.println("Â¦¼ö"); }
+		} else { System.out.println("ì§ìˆ˜"); }
 
 	}
 }
